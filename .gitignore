@@ -6,3 +6,5 @@ data/exclude.json
 .claude/
 .hallmark/
 .DS_Store
+data/women_candidates.json
+data/exclude_women.json

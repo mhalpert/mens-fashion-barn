@@ -1,9 +1,9 @@
-# Men’s Fashion Barn
+# Fashion Barn
 
-A demo menswear boutique built for a hackathon. It is not a real shop, and nothing here is for sale.
+A demo fashion boutique built for a hackathon. It is not a real shop, and nothing here is for sale.
 
 - `site/`: the storefront, plain HTML, CSS and JavaScript.
-- `data/catalog/`: 527 products, 12 outfits and their photos. See its README.
+- `data/catalog/`: women’s and men’s products, 24 outfits and their photos. See its README.
 - `scripts/`: how the catalog was built.
 
 Run it locally from the repo root, then open http://localhost:8741/site/:
